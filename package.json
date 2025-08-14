@@ -46,7 +46,7 @@
     "nyc": "15.1.0",
     "shelljs": "^0.8.4",
     "uuid": "^8.3.2",
-    "videojs-generator-verify": "~4.0.1",
+    "videojs-generator-verify": "~4.1.1",
     "videojs-standard": "^9.0.1"
   },
   "husky": {
